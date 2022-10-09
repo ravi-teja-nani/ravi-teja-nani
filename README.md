@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RAVI TEJA
+### Hi there 👋, I am Ravi Teja! 😁
 - 👀 Working as a full stack developer
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on ReactJs and NodeJs projects. 
